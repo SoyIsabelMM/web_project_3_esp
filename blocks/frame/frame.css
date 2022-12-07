@@ -1,0 +1,12 @@
+.frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  border-radius: 4px;
+  height: 48px;
+  width: 355px;
+  background: #0278fe;
+  grid-area: frame;
+}
+
+

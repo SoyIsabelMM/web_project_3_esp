@@ -1,0 +1,13 @@
+.frame__paragraph {
+  height: 22px;
+  width: 315px;
+  margin-left: 20px;
+  margin-top: 13px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: left;
+  text-decoration: none;
+  color: white;
+  
+}

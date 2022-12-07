@@ -1,0 +1,12 @@
+.content-description__text-span {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 142%;
+  text-align: right;
+  color: white;
+  margin-top: 10px;
+  width: 720px;
+  height: 34px;
+  position: absolute;
+  left: 0;
+}

@@ -1,0 +1,8 @@
+.places {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    row-gap: 80px;
+    background-color: #2a2c2f;
+    padding-top: 92px;
+}
