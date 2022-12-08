@@ -34,3 +34,5 @@
 @import url(../blocks/group/group.css);
 @import url(../blocks/group/__title/group__title.css);
 @import url(../blocks/group/__subtitle/group__subtitle.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
