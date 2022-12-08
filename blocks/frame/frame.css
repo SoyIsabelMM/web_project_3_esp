@@ -9,4 +9,9 @@
   grid-area: frame;
 }
 
+.frame:hover {
+  background: #0063D2;
+  transition: background-color 1s linear 1s;
+}
+
 

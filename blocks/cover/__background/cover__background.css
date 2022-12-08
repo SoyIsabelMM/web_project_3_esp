@@ -6,3 +6,8 @@
   height: 740px;
   width: 1184px;
 }
+
+.cover__background:hover {
+    opacity: 0.3;
+    transition: opacity 1s linear 1s;
+}
