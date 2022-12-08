@@ -1,0 +1,10 @@
+.group__subtitle {
+  color: white;
+  height: 66px;
+  width: 280px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 122%;
+  text-align: center;
+  margin: 32px auto;
+}

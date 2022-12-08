@@ -1,0 +1,7 @@
+.cover__content {
+  margin: 0 auto 0;
+  height: 740px;
+  width: 1184px;
+  display: grid;
+  position: relative;
+}

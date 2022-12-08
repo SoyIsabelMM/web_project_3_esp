@@ -1,0 +1,8 @@
+.cover__background {
+  opacity: 0.6;
+  position: absolute;
+  margin-top: 92px;
+  z-index: 0;
+  height: 740px;
+  width: 1184px;
+}
