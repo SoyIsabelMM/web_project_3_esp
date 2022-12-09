@@ -1,0 +1,5 @@
+.places__place-title_width {
+    width: fit-content;
+    grid-column-end: subtitle-end;
+    max-width: 584px;
+}

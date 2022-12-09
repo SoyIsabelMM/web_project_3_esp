@@ -1,0 +1,10 @@
+.places__place-title {
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 106%;
+  text-align: left;
+  color: white;
+  margin: 0;
+  grid-area: title;
+}
+

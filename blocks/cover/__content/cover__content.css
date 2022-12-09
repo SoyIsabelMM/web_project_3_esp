@@ -1,7 +1,11 @@
 .cover__content {
   margin: 0 auto 0;
-  height: 740px;
-  width: 1184px;
+  height: 100%;
+  width: 100%;
   display: grid;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

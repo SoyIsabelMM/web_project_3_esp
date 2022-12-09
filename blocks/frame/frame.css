@@ -11,7 +11,10 @@
 
 .frame:hover {
   background: #0063D2;
-  transition: background-color 1s linear 1s;
+}
+
+.frame:hover ~ .cover__background {
+  opacity: 0.3;
 }
 
 

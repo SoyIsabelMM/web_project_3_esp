@@ -1,4 +1,5 @@
 .frame_width {
-  width: 198px;
+  max-width: 198px;
   margin: 0 auto 0;
+  z-index: 2;
 }
