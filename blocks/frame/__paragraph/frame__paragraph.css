@@ -1,13 +1,19 @@
 .frame__paragraph {
-  height: 22px;
-  width: 315px;
-  margin-left: 20px;
-  margin-top: 13px;
+  max-height: 22px;
+  max-width: 315px;
   font-size: 18px;
   font-weight: 600;
   line-height: 22px;
   text-align: left;
   text-decoration: none;
   color: white;
-  
+  padding: 13px 20px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .frame__paragraph {
+    max-height: 22px;
+    max-width: 315px;
+    line-height: 21.78px;
+  }
 }

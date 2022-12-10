@@ -3,5 +3,15 @@
   font-weight: 900;
   line-height: 107%;
   color: white;
-  margin: 92px auto 40px;
+  margin: 0 auto 40px;
+  max-width: 1017px;
+   max-height: 116px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .intro__content-title {
+   max-width: 720px;
+   max-height: 232px;
+   margin: 0 auto 15px;
+  }
 }

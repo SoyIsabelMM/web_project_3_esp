@@ -9,3 +9,10 @@
   text-transform: uppercase;
   color:#AAAAAA;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .places__place-url-heading {
+    max-width: 58px;
+    max-height: 15px;
+  }
+}

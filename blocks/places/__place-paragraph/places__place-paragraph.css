@@ -1,8 +1,17 @@
 .places__place-paragraph {
-  width: 484px;
+  max-width: 484px;
   font-size: 18px;
   font-weight: 400;
   line-height: 163%;
   text-align: left;
   color: #FFFFFF;
+  margin: 0 auto 56px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .places__place-paragraph {
+    font-size: 16px;
+    max-width: 352px;
+    margin-bottom: 14px;
+  }
 }

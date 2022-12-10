@@ -1,9 +1,14 @@
 .places__place-image {
-  height: 460px;
-  width: 460px;
-  border-radius: 0px;
+  max-height: 460px;
+  max-width: 460px;
   grid-area: image;
-  min-height: 100%;
-  max-height: 100%;
   object-fit: cover;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .places__place-image {
+    max-width: 340px;
+    max-height: 340px;
+    grid-area: image;
+  }
 }

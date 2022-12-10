@@ -1,4 +1,5 @@
 .cover {
   background-color: #2a2c2f;
-  height: 924px;
+  max-height: 924px;
+  position: relative;
 }

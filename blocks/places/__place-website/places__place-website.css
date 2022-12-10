@@ -1,4 +1,14 @@
 .places__place-website {
-    margin-bottom: 0;
+  max-width: 456px;
+  max-height: 45px;
+  margin-bottom: 0;
+  grid-area: website;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .places__place-website {
+    max-width: 295px;
+    max-height: 67px;
     grid-area: website;
+  }
 }

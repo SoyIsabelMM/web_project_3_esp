@@ -1,9 +1,20 @@
 .photo-grid__items {
-  width: 1184px;
-  height: 442px;
+  max-width: 1184px;
+  max-height: 442px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   margin: 0 auto 0;
   grid-gap: 16px;
+  padding-bottom: 92px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .photo-grid__items {
+   max-width: 720px;
+   max-height: 1104px;
+   grid-template-columns: repeat(2, 1fr);
+   justify-items: stretch;
+   padding-bottom: 88px;
+  }
 }
