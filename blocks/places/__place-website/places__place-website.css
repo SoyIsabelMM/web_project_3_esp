@@ -12,3 +12,12 @@
     grid-area: website;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__place-website {
+    max-width: 288px;
+    min-height: 67px;
+    grid-area: website;
+    margin: 0 16px 0;
+  }
+}

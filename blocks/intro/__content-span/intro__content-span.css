@@ -10,3 +10,12 @@
   position: absolute;
   left: 0;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .intro__content-span {
+   max-width: 288px;
+   min-height: 34px;
+   margin-top: 32px;
+   position: none;
+  }
+}

@@ -31,6 +31,7 @@
 @import url(../blocks/frame/frame.css);
 @import url(../blocks/frame/_width/frame_width.css);
 @import url(../blocks/frame/__paragraph/frame__paragraph.css);
+@import url(../blocks/frame/__paragraph/_width-paragraph/frame__paragraph_width-paragraph.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__content-title/cover__content-title.css);

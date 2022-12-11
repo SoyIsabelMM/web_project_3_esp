@@ -12,3 +12,11 @@
     grid-area: image;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__place-image {
+    max-width: 320px;
+    max-height: 320px;
+    grid-area: image;
+  }
+}

@@ -18,3 +18,13 @@
    padding-bottom: 88px;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .photo-grid__items {
+   max-width: 288px;
+   max-height: 1812px;
+   grid-template-columns: 1fr;
+   padding-bottom: 62px;
+   grid-gap: 12px;
+  }
+}

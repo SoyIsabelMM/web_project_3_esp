@@ -1,0 +1,10 @@
+@media screen and (min-width: 320px) and (max-width:767px) {
+
+    .frame__paragraph_width-paragraph {
+       max-width: 158px;
+       max-height: 22px;
+       font-size: 18px;
+       line-height: 22px; 
+    }
+    
+}

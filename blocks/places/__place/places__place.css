@@ -25,6 +25,21 @@
       "title website"
       "image paragraph"
       "frame paragraph";
-      max-height: 530px;
+    max-height: 530px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__place {
+    grid-gap: 30px;
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraph"
+      "frame";
+      max-width: 320px;
+      min-height: 1433px;
+      align-items: center;
   }
 }

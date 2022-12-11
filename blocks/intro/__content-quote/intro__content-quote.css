@@ -14,3 +14,11 @@
    max-height: 136px;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .intro__content-quote {
+   max-width: 288px;
+   min-height: 300px;
+   line-height: 125%;
+  }
+}

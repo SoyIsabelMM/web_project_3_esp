@@ -17,3 +17,12 @@
     padding-bottom: 82px;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .cover__content {
+    height: 254px;
+    width: 320px;
+    padding-bottom: 64px;
+    padding-top: 64px;
+  }
+}
