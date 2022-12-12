@@ -10,6 +10,7 @@
     "frame paragraph";
 }
 
+
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .places__place {
     grid-gap: 46px 28px;
@@ -39,7 +40,17 @@
       "paragraph"
       "frame";
       max-width: 320px;
-      min-height: 1433px;
+      max-height: 1433px;
       align-items: center;
+      grid-template-rows: 35px 67px 320px 650px 48px;
   }
+
+  .places__place:nth-child(4) {
+    grid-template-rows: 35px 67px 320px 806px 48px;
+  }
+
+  .places__place:nth-child(5) {
+    grid-template-rows: 35px 67px 320px 570px 48px;
+  }
+
 }
