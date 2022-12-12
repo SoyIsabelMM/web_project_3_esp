@@ -1,8 +1,8 @@
 # Project: De patria a patria
 ### Descripción general    
 * Introducción  
-* 
-* 
+* Herramientas
+* Imagenes
   
 **Introducción**    
   Este proyecto habla sobre las ciudades natales de los trabajadores de Practicum, en esta pagina recreamos una galeria de arte con imagenes de los principales lugares epicos de las ciudades de origen de los colaboradores de practicum.
