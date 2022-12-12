@@ -42,3 +42,6 @@ Las principales herramientas con las que se trabajo el proyecto fueron las sigui
 **Imágenes**  
   
   Las imagenes que se aprecian en el proyecto se trabajaron en pixel, las imagenes originales tenian una resolución muy alta y para que la página no tardara tanto en cargar, utilizamos tiny.com que nos ayudo a bajar los pixeles sin afectar la calidad de la imágen, adicional usamos la propiedad object-fit: cover; en las medias query para que al momento de cambiar el tamaño no se viera borroso o extendido. 
+
+**Enlace para GitHub**
+ https://github.com/SoyIsabelMM/web_project_3_esp/index.html
