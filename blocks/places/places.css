@@ -1,7 +1,6 @@
 .places {
   display: grid;
   grid-gap: 80px;
-  background-color: #2a2c2f;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
